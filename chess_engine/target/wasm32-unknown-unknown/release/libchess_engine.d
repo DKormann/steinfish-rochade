@@ -1,0 +1,1 @@
+/Users/peergynt/fun/rust/wasm/steinfish_rochade/frontend/chess_engine/target/wasm32-unknown-unknown/release/libchess_engine.rlib: /Users/peergynt/fun/rust/wasm/steinfish_rochade/frontend/chess_engine/src/bot.rs /Users/peergynt/fun/rust/wasm/steinfish_rochade/frontend/chess_engine/src/game.rs /Users/peergynt/fun/rust/wasm/steinfish_rochade/frontend/chess_engine/src/lib.rs
